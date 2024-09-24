@@ -1,14 +1,11 @@
 # Group Project
 
-Degree Programs & Research Interests of Members
+## Degree Programs & Research Interests of Members
 
-Masters in development Practices,2025 
+### Neha Malhotra
+Degree Program: Masters in Development Practices
+Research Interest: Energy Policy, and Grid Stabilization and Decarbonization Strategies
 
-
-
-
-
-
-Saksham is the best Boy and very cute also :)
-
-
+### Saksham Jain
+Degree Program: PhD Statistics
+Research Interest: Causal Inference and Machine Learning
